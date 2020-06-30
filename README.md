@@ -1,7 +1,12 @@
 # DataBaseImp
-Designed and implemented a single-user database management system in C++.
+Designed and implemented a relational database (like MySQL) to enable user to insert, delete, update and search data using C++ language.
 
-Formed and built access structures and indexing, relational algebra operations, query evaluation and query optimization.
+Implemented three types of file storage system in database: Heap, Sorted List and B+ Tree.
+
+Originated a parser to transfer SQL commands into corresponding CNFs using Lex language.
+
+Boosted database requests efficiency by 68%, through estimating and simulating operations in database.
+
 
 
 Instruction:
