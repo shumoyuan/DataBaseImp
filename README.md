@@ -5,5 +5,6 @@ Formed and built access structures and indexing, relational algebra operations, 
 Instruction:
 1.Compile:
   make test.out
+
 2.Run:
   /test.out
